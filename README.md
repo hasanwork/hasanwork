@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasanwork
+- 👋 Hi, I’m @hasan
 - 👀 I’m interested in explore code 
 - 🌱 I’m currently learning freestyle coding
 -
